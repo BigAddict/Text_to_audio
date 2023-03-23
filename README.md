@@ -1,2 +1,2 @@
 # Text_to_audio
-This repository can be used to convert text files to audio file
+This is a python GUI script that converts text to audio file
