@@ -1,0 +1,30 @@
+{
+    "ShowLogs": true,
+    "QMainWindow": [
+        {
+            "tittle": "Text To Audio"
+        }
+    ],
+    "QSettings": [
+        {
+            "ThemeSettings": [
+                {
+                    "CustomTheme": [
+                        {
+                            "Background-color": "#16191d",
+                            "Text-color": "#fff",
+                            "Accent-color": "#03c3c3",
+                            "Theme-name": "Dark-Blue",
+                            "Default-Theme": true
+                        }
+                    ]
+                }
+            ],
+            "AppSettings": {
+                "OrginizationName": "Text To Audio",
+                "ApplicationName": "Text To Audio Company",
+                "OrginizationDormain": "Text To Audio.org"
+            }
+        }
+    ]
+}
